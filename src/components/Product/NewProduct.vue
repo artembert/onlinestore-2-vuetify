@@ -2,7 +2,7 @@
   <v-container>
     <v-layout row>
       <v-flex sx12>
-        <h1>Home</h1>
+        <h1>New Product</h1>
       </v-flex>
     </v-layout>
   </v-container>
@@ -10,11 +10,11 @@
 
 <script>
 
-export default {
-  components: {
-  },
-  data () {
-    return {}
+  export default {
+    components: {
+    },
+    data () {
+      return {}
+    }
   }
-}
 </script>
